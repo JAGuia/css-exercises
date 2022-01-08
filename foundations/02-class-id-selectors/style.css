@@ -1,0 +1,20 @@
+.odd-numbers,
+.cool-class{
+    background-color: rgb(255, 160, 207);
+    font-family: Verdana, sans-serif; 
+}
+
+.cool-class{
+    font-size: 24px;
+}
+
+#blue-number{
+    color: blue;
+    font-size: 36px;
+}
+
+#green-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
